@@ -1,4 +1,4 @@
 # AltAmino
 Source code of AltAmino server.
 
-## WILL BE AVAILABLE AT FEBRUARY 1ST
+Check "api" branch for API code and "websocket" branch for websockets code.
